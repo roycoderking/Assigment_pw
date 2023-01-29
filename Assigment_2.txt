@@ -1,0 +1,19 @@
+1 Answer:  By using git --version we can check git is available in our system or not.
+
+2 Answer: Using git init command we can initialize the git repository. 
+
+3 Answer:  for name: git config --global user.name"Demo"
+           for email id: git config --global user.email"Demo@Gmail.com".
+
+4 Answer:  for staging area: git add <file name>
+
+5 Answer:  to remove the file from the staging area: git rm --cached <file name> 
+
+6 Answer:  for commit: git commit -m 
+
+7 Answer:  git branch -M main
+           git remote add origin https://github.com/roycoderking/Java_Demo
+           git push -u origin main
+
+8 Answer: Clone: make a copy of a full repository 
+          pull: it just makes a copy of the file that has been modified.
